@@ -1,0 +1,13 @@
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/client/MusicBrainzClient.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/controller/MediaController.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/service/WikiDataService.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/client/WikipediaClient.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/service/MediaFacade.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/config/RestConfig.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/domain/WikiDataResponse.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/client/CoverArtClient.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/domain/MusicBrainzResponse.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/config/JacksonConfig.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/TestApplication.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/service/MusicBrainzService.java
+/Users/rishabhsinghal/Downloads/test/src/main/java/com/plugsurfing/test/client/WikiDataClient.java

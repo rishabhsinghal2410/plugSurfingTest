@@ -1,0 +1,17 @@
+com/plugsurfing/test/controller/MediaController.class
+com/plugsurfing/test/client/CoverArtClient.class
+com/plugsurfing/test/domain/MusicBrainzResponse.class
+com/plugsurfing/test/TestApplication.class
+com/plugsurfing/test/service/MediaFacade.class
+com/plugsurfing/test/service/WikiDataService.class
+com/plugsurfing/test/config/RestConfig.class
+com/plugsurfing/test/domain/WikiDataResponse$ResourceData.class
+com/plugsurfing/test/client/WikiDataClient.class
+com/plugsurfing/test/domain/WikiDataResponse.class
+com/plugsurfing/test/domain/WikiDataResponse$SiteLink.class
+com/plugsurfing/test/config/JacksonConfig.class
+com/plugsurfing/test/service/MusicBrainzService.class
+com/plugsurfing/test/domain/MusicBrainzResponse$Relation.class
+com/plugsurfing/test/domain/MusicBrainzResponse$ReleaseGroup.class
+com/plugsurfing/test/client/WikipediaClient.class
+com/plugsurfing/test/client/MusicBrainzClient.class
