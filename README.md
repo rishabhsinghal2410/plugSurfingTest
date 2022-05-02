@@ -1,5 +1,10 @@
 # Read Me First
 
+Assumptions:
+1. Since the CoverArt URL has been permanently moved, I have not added any data manipulation logic.
+2. Currently have assumed there will be no client API failure
+3. No rate limit on API from client side
+
 Improvement:
 
 0. Adding Global exception handler to properly handle failure

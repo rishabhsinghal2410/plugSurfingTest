@@ -1,7 +1,6 @@
 package com.plugsurfing.test.controller;
 
 import com.plugsurfing.test.domain.ArtistInformation;
-import com.plugsurfing.test.exception.NotFoundException;
 import com.plugsurfing.test.service.MediaFacade;
 import java.util.Collections;
 import java.util.UUID;
@@ -18,7 +17,6 @@ import org.springframework.test.web.servlet.MockMvc;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.notNullValue;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
-import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
